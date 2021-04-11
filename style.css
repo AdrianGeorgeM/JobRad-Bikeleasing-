@@ -117,3 +117,12 @@ text-align: left;
   width: 100%;
 
 }
+@media only screen and (max-width: 853px){
+    
+    .bestellProzess__container-items{
+        width: 100%;
+    }
+    .description{
+        width: 100%;
+    }
+}
