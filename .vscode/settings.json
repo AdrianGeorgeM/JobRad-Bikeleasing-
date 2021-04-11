@@ -1,5 +1,3 @@
 {
-    "editor.defaultFormatter": "necinc.elmmet",
-    "editor.formatOnSave": true,
-    "editor.formatOnSaveMode": "modifications"
+    "editor.defaultFormatter": "necinc.elmmet"
 }
